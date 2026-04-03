@@ -1,64 +1,51 @@
-# Hi, I'm Juyoung (Kevin) Lee 👋
+## Hi, I'm Juyoung (Kevin) Lee 👋
 
-🎓 Computer Science @ Western University (Graduating Aug 2026)  
-💼 Software Engineer Intern @ ITK Engineering Japan  
-📍 Toronto, Canada — Available September 2026  
-🔗 [LinkedIn](https://linkedin.com/in/juyoung-lee290)
+I'm a Computer Science student at **Western University** (graduating Aug 2026) with 2+ years of software and data engineering experience across Japan and Canada. I build full-stack applications and data pipelines that solve real operational problems.
 
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
-
-**Frameworks & Tools**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+Currently interning at **ITK Engineering Japan** — open to new grad Software Engineer roles in the **GTA** starting September 2026.
 
 ---
 
-## 💼 Experience
+### 🛠️ Tech Stack
 
-```text
-ITK Engineering Japan   Software Engineer Intern      Nov 2025 – Present
-Bosch Japan             Data Analyst Intern            May 2025 – Sep 2025
-Bosch Japan             Software Engineer Intern       Sep 2024 – May 2025
-```
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Frameworks & Tools**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 
 ---
 
-## 📌 Featured Project
+### 💼 Experience
 
-### 🔄 [Salesforce Sales Forecast ETL Pipeline](https://github.com/Jellyfish135/Salesforce-Sales-Forecast-ETL-Pipeline)
+| Company | Role | Period |
+|---|---|---|
+| ITK Engineering Japan | Software Engineer Intern | Nov 2025 – Present |
+| Bosch Japan | Data Analyst Intern | May 2025 – Sep 2025 |
+| Bosch Japan | Software Engineer Intern | Sep 2024 – May 2025 |
 
-> Python ETL pipeline that transforms Excel sales forecasts into Salesforce-ready CSVs — eliminating 15+ hours of manual work per upload cycle.
+---
 
+### 📌 Featured Project
+
+**[🔄 Salesforce Sales Forecast ETL Pipeline](https://github.com/Jellyfish135/Salesforce-Sales-Forecast-ETL-Pipeline)**  
+Python ETL pipeline that parses multi-sheet Excel workbooks, applies business transformation logic, and exports Salesforce-ready CSVs for bulk upsert — eliminating 15+ hours of manual work per upload cycle.  
 `Python` `pandas` `ETL` `Salesforce` `Linux`
 
 ---
 
-## 📊 GitHub Stats
+### 📫 Let's Connect
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jellyfish135&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jellyfish135&layout=compact&hide_border=true&theme=default" height="150"/>
-</p>
-
----
-
-<p align="left">
-  <i>Open to new grad Software Engineer roles in the GTA — feel free to reach out!</i>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/juyoung-lee290)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kevinjuyounglee290@gmail.com)

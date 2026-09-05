@@ -2,7 +2,7 @@
 
 I'm a Computer Science student at **Western University** (graduating Aug 2026) with 2+ years of software and data engineering experience across Japan and Canada. I build full-stack applications and data pipelines that solve real operational problems.
 
-Currently interning at **ITK Engineering Japan** — open to new grad Software Engineer roles in the **GTA** starting September 2026.
+Currently interning at **ITK Engineering Japan** — open to new grad Software Engineer roles in the **GTA** starting October 2026.
 
 ---
 
